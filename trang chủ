@@ -1,3 +1,6 @@
+  <!DOCTYPE HTML>
+  <html>
+  <head>
   <title>Excercise 3</title>
   <style>
   #menu{
@@ -8,6 +11,7 @@
       line-height: 1px;
   }
   </style>
+  </head>
 <body>
   <img src="http://lamgiau247.com/wp-content/uploads/2014/08/001036.jpg" 
   width="100%"/>
@@ -17,7 +21,8 @@
   <p id="menu">
   Danh sách sản phẩm
   </p>
-  
+  </body>
+  </html>
   
   
   
