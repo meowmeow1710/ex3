@@ -1,0 +1,42 @@
+  <title>Excercise 3</title>
+  <style>
+  #menu{
+    color: #663300;
+      text-align: center;
+      text-decoration: underline;
+      font-size: 30px;
+      line-height: 1px;
+  }
+  </style>
+<body>
+  <img src="http://lamgiau247.com/wp-content/uploads/2014/08/001036.jpg" 
+  width="100%"/>
+  <img src="http://www.iconarchive.com/download/i51992/robinweatherall/library/folder.ico"
+  width="2px" height="2px"/>
+  <a href="https://jsfiddle.net/meowmeow1710/7jwsy18h/9/">
+  <p id="menu">
+  Danh sách sản phẩm
+  </p>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
